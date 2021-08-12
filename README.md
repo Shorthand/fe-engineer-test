@@ -10,7 +10,9 @@ We are specifically looking for code structure/component composition, accurate t
 
 ## Submitting your solution
 
-Fork this repository, create your solution in your fork, then add @ckortekaas and @rickyrobinson to your fork, and let us know that you've completed the challenge.
+Clone this repository and set up your own, new repository as the origin remote. 
+
+Once your remote repository is ready, add @ckortekaas and @rickyrobinson and let us know that you've completed the challenge.
 
 ## Your comments
 
