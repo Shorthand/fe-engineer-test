@@ -12,7 +12,7 @@ We are specifically looking for code structure/component composition, accurate t
 
 Clone this repository and set up your own, new repository as the origin remote. 
 
-Once your remote repository is ready, add @ckortekaas and @rickyrobinson and let us know that you've completed the challenge.
+Once your remote repository is ready, add @ckortekaas and @nathanhoad and let us know that you've completed the challenge.
 
 ## Your comments
 
